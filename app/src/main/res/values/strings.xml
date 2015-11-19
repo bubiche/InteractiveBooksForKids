@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Interactive Books</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="welcomeTitle">Interactive Books</string>
+    <string name="bookChoiceInstruction">Choose the book you want to read below\n(Scroll down to see all books - Tap on a book\'s cover to see it in full size)"</string>
+    <string name="close">CLOSE</string>
+    <string name="title_activity_book_page_list">Choose A Page to Start</string>
+    <string name="back">Back</string>
+
+    <string-array name="book0">
+        <item> </item>
+    </string-array>
+    <!-- book 1 content -->
+    <string-array name="book1">
+        <item>I\nAmong twenty snowy mountains,\nThe only moving thing,\nWas the eye of the blackbird.</item>
+        <item>II\nI was of three minds,\nLike a tree,\nIn which there are three blackbirds.</item>
+        <item>III\nThe blackbird whirled in the autumn winds.\nIt was a small part of the pantomime.</item>
+        <item>IV\nA man and a woman\nAre one.\nA man and a woman and a blackbird\nAre one.</item>
+        <item>V\nI do not know which to prefer,\nThe beauty of inflections\nOr the beauty of innuendoes,\nThe blackbird whistling\nOr just after</item>
+        <item>VI\nIcicles filled the long window,\nWith barbaric glass.\nThe shadow of the blackbird,\nCrossed it, to and fro.\nThe mood,\nTraced in the shadow\nAn indecipherable cause.</item>
+        <item>VII\nO thin men of Haddam,\nWhy do you imagine golden birds?\nDo you not see how the blackbird\nWalks around the feet\nOf the women about you?</item>
+        <item>VIII\nI know noble accents,\nAnd lucid, inescapable rhythms;\nBut I know, too,\nThat the blackbird is involved,\nIn what I know</item>
+        <item>IX\nWhen the blackbird flew out of sight,\nIt marked the edge\nOf one of many circles.</item>
+        <item>X\nAt the sight of blackbirds,\nFlying in a green light,\nEven the bawds of euphony,\nWould cry out sharply.</item>
+	    <item>XI\nHe rode over Connecticut\nIn a glass coach.\nOnce, a fear pierced him,\nIn that he mistook\nThe shadow of his equipage\nFor blackbirds.</item>
+	    <item>XII\nThe river is moving.\nThe blackbird must be flying.</item>
+	    <item>XIII\nIt was evening all afternoon.\nIt was snowing,\nAnd it was going to snow.\nThe blackbird sat\nIn the cedar-limbs.</item>
+    </string-array>
+
+    <!-- book 2 content -->
+    <string-array name="book2">
+        <item>The Sun is about 90 million mi (150 million km) away from Earth. It is modest by stellar standards, although it is over 100 times larger than the earth and over 300,000 times more massive. Although it consumes more than half a billion tons of its nuclear fuel each second, it has been shining continuously for five billion years, and it will continue to shine for another five billion.</item>
+        <item>Mercury is the smallest planet in the Solar System. It is the closest planet to the sun. It makes one trip around the Sun once every 87.969 days. Mercury is bright when it is visible from Earth, ranging from -2.0 to 5.5 in apparent magnitude. It cannot be easily seen as it is usually too close to the Sun. Because Mercury is normally lost in the glare of the Sun (except during a solar eclipse), Mercury can only be seen in the morning or evening twilight.</item>
+        <item>Venus is the second planet from the Sun. It is a terrestrial planet because it has a solid, rocky surface like other planets in the inner solar system. Astronomers have known Venus for thousands of years. The ancient Romans named it after their goddess Venus. Venus is the brightest thing in the night sky except for the Moon. It is sometimes called the morning star or the evening star as it is brightest just before the sun comes up in the morning, and just after the sun goes down in the evening. Venus comes closer to the Earth than any other planet does.</item>
+        <item>The Earth is the third planet from the Sun and it is the only planet known to have life on it. The Earth formed around 4.5 billion years ago. It is one of four rocky planets on the inside of the Solar System.\nThe Earth is the only planet in our Solar System that has a large amount of liquid water. About 71% of the surface of the Earth is covered by oceans. Because of this, it is sometimes called the "Blue Planet". Because of its water, the Earth is home to millions of species of plants and animals. The things that live on Earth have changed its surface greatly.</item>
+        <item>Mars is the fourth planet from the Sun in the Solar System and the second-smallest solid planet. Mars is rocky and cold, with polar ice caps of frozen water and carbon dioxide. It has the largest volcano in the Solar System, and some very large impact craters. Mars is named after the mythological Roman god of war because it is a red planet, the colour of blood.</item>
+        <item>Jupiter is the largest planet in the Solar System. It is the fifth planet from the Sun. Jupiter is classified as a gas giant, both because it is so large and due to the fact that it is made up mostly of gas. The other gas giants are Saturn, Uranus, and Neptune.</item>
+        <item>Saturn is the sixth planet from the Sun in the Solar System. It is the second largest planet in the Solar System, after Jupiter. Like Jupiter, Uranus and Neptune, it is a "gas giant". The inside of Saturn is probably a core of iron, nickel, silicon and oxygen compounds, surrounded by a deep layer of metallic hydrogen, then a layer of liquid hydrogen and liquid helium and finally, an outer gaseous layer.</item>
+        <item>Uranus is the seventh planet from the Sun in the Solar System. It is a gas giant. It is the third largest planet in the solar system. The planet is made of ice, gases and liquid metal. Its atmosphere contains hydrogen, helium and methane. The temperature on Uranus is -197 degrees C (79 K) near the top of its atmosphere, but its small solid core (about 55% the mass of Earth) is probably about 5,000K. The planet is tilted on its axis so much that it is sideways.</item>
+        <item>Neptune is the eighth and last planet from the Sun in the Solar System. It is a gas giant. It is the fourth largest planet and third heaviest. Neptune has four rings which are hard to see from the Earth. It is 17 times heavier than Earth and is a little bit heavier than Uranus. It was named after the Roman God of the Sea.</item>
+        <item>Pluto is the second-largest dwarf planet in the Solar System. It is smaller than the largest known dwarf planet, Eris. Its formal name is 134340 Pluto. The dwarf planet is the tenth-largest body that moves around the Sun. At first, Pluto was called a planet. Now, it is considered the second largest of the bodies in the Kuiper belt.</item>
+    </string-array>
+
+    <!-- book 3 content -->
+    <string-array name="book3">
+        <item>Tomorrow\'s to be the best day,\nA day of sunshine, swim and play,\nMust get to sleep, morning is near,\nWe\'ll wake early, much to prepare</item>
+        <item>Eat breakfast, find my pail and rake,\nGreat big castles of sand we,\'ll make\nPack cooler with lunch, bring a hat,\nBags for towels and this and that</item>
+        <item>Morning has come, wide open eyes,\nHoping for those clear blue skies,\nIt must be early, sky\'s still gray,\nMaybe I woke on the wrong day</item>
+        <item>Waited all winter, now\'s in reach,\nsunny day of fun at the beach,\nWent back to bed, nothing to do,\nClosed my eyes then the sun shined through</item>
+        <item>Jumped out of bed, day\'s second chance,\nBrush my teeth and put on short pants,\nRan downstairs for breakfast and more\na surprise friend waits at my door</item>
+        <item>We all got packed into the car,\nHoping the drive won\'t be too far,\nWheels turn, rush of cool air,\nWindows open, I smell the sea air</item>
+        <item>Pull in the lot, our fun begins,\nUnpack the car, pull out the bins,\nWe carry the bags, two for each\nUmbrellas up, blanket on beach</item>
+        <item>Cooler wheels stuck in the sand,\nDad asked me to lend him a hand,\nWe\'re all set up, time to explore,\nThere\'s much to do at the seashore</item>
+        <item>We hurry down to take our dips,\nFirst toes then knees, up to hips,\nThe water\'s cold, we jumped back out,\nTo thick towels we run and shout</item>
+        <item>We all go home, skin pink, eyes red,\nTake a cool bath then off to bed,\nGoing to sleep dreaming of more\na day at the beach is best - I\'m sure!</item>
+    </string-array>
+
+    <!-- book 4 content -->
+    <string-array name="book4">
+        <item>Jazz is a genre of music that originated in African American communities during the late 19th and early 20th century. It emerged in many parts of the United States in the form of independent popular musical styles, all linked by the common bonds of African American and European American musical parentage with a performance orientation.</item>
+        <item>Heavy metal (or simply metal) is a genre of rock music that developed in the late 1960s and early 1970s, largely in the United States and the United Kingdom. With roots in blues rock and psychedelic rock, the bands that created heavy metal developed a thick, massive sound, characterized by highly amplified distortion, extended guitar solos, emphatic beats, and overall loudness.</item>
+        <item>Classical music is art music produced or rooted in the traditions of Western music (both liturgical and secular). It encompasses a broad span of time from roughly the 11th century to the present day. The central norms of this tradition became codified between 1550 and 1900, which is known as the common practice period.</item>
+        <item>Pop music is extremely eclectic, often borrowing elements from other styles including urban, dance, rock, Latin and country; nonetheless, there are core elements which define pop. Such elements include generally short to medium-length songs, written in a basic format (often the verse-chorus structure), as well as the common employment of repeated choruses, melodic tunes, and hooks.</item>
+        <item>Rock music is a genre of popular music that originated as "rock and roll" in the United States in the 1950s, and developed into a range of different styles in the 1960s and later, particularly in the United Kingdom and the United States. It has its roots in 1940s\' and 1950s\' rock and roll, itself heavily influenced by blues, rhythm and blues and country music.</item>
+        <item>Blues is a genre and musical form that originated in African-American communities in the "Deep South" of the United States around the end of the 19th century. The genre is a fusion of traditional African music and European folk music, spirituals, work songs, field hollers, shouts and chants, and rhymed simple narrative ballads.</item>
+        <item>Folk music includes both traditional music and the genre that evolved from it during the 20th century folk revival. The term originated in the 19th century but is often applied to music that is older than that. Some types of folk music are also called world music.</item>
+        <item>The term avant-garde is applied to music when it is considered "ahead of its time" by critics or fans, i.e., it contains unique or original elements, or it explores unusual fusions of different genres</item>
+        <item>Reggae is a music genre that originated in Jamaica in the late 1960s. While sometimes used in a broad sense to refer to most types of popular Jamaican dance music, the term reggae more properly denotes a particular music style that was strongly influenced by traditional mento and calypso music, as well as American jazz and rhythm and blues.</item>
+        <item>Opera is an art form in which singers and musicians perform a dramatic work combining text (called a libretto) and musical score, usually in a theatrical setting.</item>
+    </string-array>
+
+    <!-- book 5 content -->
+    <string-array name="book5">
+        <item>Once there was a little mouse named Lucy. She lived in the meadow with her mother and father, and her little brother Harvey. She and Harvey got along very well. They played in the fields, went swimming in the summer, climbed trees, and even had tea parties together.</item>
+        <item>Lucy thought that Harvey was just about the most perfect brother she could have, except for one thing: he had a way of sneaking up on her when she just wasn\'t expecting it. Why only this morning he had startled her so badly that she had spilled her juice all over the table. Mother had been upset and so had she. In fact, she had been so upset it had given her hiccups and now she couldn\'t get rid of them!</item>
+        <item>She had tried drinking water, and holding her breath but the Hiccups just wouldn\'t go away. No matter how hard she tried to get rid of them every few seconds a giant HIC-CUP would burst out of her little self. Maybe my friends will know what to do, she thought.</item>
+        <item>First she went to Skunk\'s house. "Hello -HIC- Skunk" she said. "Hello. How are you today?" Skunk replied. "I\'m -HIC- fine" said Lucy "but -HIC- I have -HIC- the hiccups -HIC- and I can\'t get -HIC- rid of them!" " I noticed" said Skunk "Perhaps if you stand on your head the Hiccups will fall out" she suggested. "That\'s what I always do and it works great for me. Toodle Loo!" and she dashed off without another word.</item>
+        <item>So Lucy stood on her head and waited for a very long time. It was very difficult because with every Hiccup she would lose her balance and have to start all over again. While she was doing this Frog hopped up.</item>
+        <item>"What are you doing Lucy?" he asked. Lucy started to tell him but suddenly a really huge Hiccup came out, and Frog said "Oh my, it seems standing on your head has given you the Hiccups. You should try hopping on one foot while patting your tummy" he offered helpfully. "Thank -HIC- you" she said, but when she looked up Frog had already hopped off towards the pond.</item>
+        <item>Hopping on one foot and patting her tummy sounded silly to Lucy but the Hiccups were getting worse and she was willing to try anything if it would make them go away. But no matter how hard she hopped and patted, the Hiccups wouldn\'t go away.</item>
+        <item>"Oh no!" she said as she began to walk home. "Perhaps I will have Hiccups for the rest of my life. I will be known as the Hiccup Mouse. Maybe I will never be able to go into the library again, the Librarian will surely tell me I am too noisy to be there! And I can forget about ever playing Hide-n-Seek, because everyone will find me!" By now, she was so busy feeling miserable that she hardly noticed where she was going.</item>
+        <item>Just then Harvey jumped out of the berry bushes beside the path holding a large, juicy berry. "Lucy look what I found!" he exclaimed. But Lucy was tired of being surprised by her little brother and she\'d had enough. "Harvey, how many times have I told you not to" she started to say. Then she stopped and a huge smile spread across her face.</item>
+        <item>She realized that her Hiccups were gone! Harvey had surprised her so much that the Hiccups had disappeared. "Oh, Harvey" she said and then she threw her arms around him and gave him a gigantic hug. "Thank you! You cured me of those horrible Hiccups!" she cried. Then she and Harvey went off to share that delicious berry.</item>
+    </string-array>
+    <string name="title_activity_book_page">Read Your Book!</string>
+
+    <string name="back_to_page_list">Back to Page List</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="end">QUIZ!</string>
+
+    <string name="title_activity_quiz">Quiz!!!</string>
+    <string name="answer">Answer!</string>
+
+    <string name="back_to_book_list">Book List</string>
+    <string name="pause_play">Play/Pause</string>
+    <string name="title_activity_reward">Your Reward</string>
+
+    <string name="back_to_q">Back to Quiz</string>
+    <string name="page_pick">Tap a page to read, you can do a quiz after the last page!</string>
+    <string name="help">HELP</string>
+    <string name="camera">Take a picture of yourself in this moment and set as phone\'s wallpaper</string>
+    <string name="read">Read4Me/Stop</string>
+    <string name="quiz_ins">Instruction: Tap on the answer you want, scroll the list to see all answers</string>
+</resources>

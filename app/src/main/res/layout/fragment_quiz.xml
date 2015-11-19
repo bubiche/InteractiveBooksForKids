@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.interactivebooksforkids.QuizFragment"
+    android:orientation="vertical"
+    android:weightSum="100">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:id="@+id/question_scrore"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="9"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/question_tv"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="15"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/question_img"
+        android:layout_weight="28"
+        android:scaleType="fitCenter"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/question_ans"
+        android:layout_weight="34" />
+    <LinearLayout
+        android:layout_height="0dp"
+        android:layout_width="fill_parent"
+        android:orientation="horizontal"
+        android:layout_weight="14">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/but_back_main_from_quiz"
+            android:text="@string/back_to_book_list" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/quiz_help"
+            android:text="@string/help"
+            android:layout_gravity="top" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="@string/quiz_ins"
+            android:textStyle="bold"
+            />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/selected1" android:oneshot="false">
+    <item android:drawable="@drawable/book5_page1" android:duration="500" />
+    <item android:drawable="@drawable/book5_page2" android:duration="500" />
+    <item android:drawable="@drawable/book5_page3" android:duration="500" />
+    <item android:drawable="@drawable/book5_page4" android:duration="500" />
+    <item android:drawable="@drawable/book5_page5" android:duration="500" />
+    <item android:drawable="@drawable/book5_page6" android:duration="500" />
+    <item android:drawable="@drawable/book5_page7" android:duration="500" />
+    <item android:drawable="@drawable/book5_page8" android:duration="500" />
+    <item android:drawable="@drawable/book5_page9" android:duration="500" />
+    <item android:drawable="@drawable/book5_page10" android:duration="500" />
+</animation-list>

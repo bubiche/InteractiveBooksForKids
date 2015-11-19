@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="book1_page">13</integer>
+    <integer name="book2_page">10</integer>
+    <integer name="book3_page">10</integer>
+    <integer name="book4_page">10</integer>
+    <integer name="book5_page">10</integer>
+</resources>

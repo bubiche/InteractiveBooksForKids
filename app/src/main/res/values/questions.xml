@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- number of questions -->
+    <integer name="book1q">10</integer>
+    <integer name="book2q">12</integer>
+    <integer name="book3q">8</integer>
+    <integer name="book4q">7</integer>
+    <integer name="book5q">8</integer>
+
+    <!-- first item: 0 when question has no picture, 1 when question uses a picture-->
+    <!-- last item: correct option -->
+    <!--
+    example:
+        <string-array name="book1q1">
+        <item>0</item>
+        <item>question goes here</item>
+        <item>option1</item>
+        <item>option2</item>
+        <item>option3</item>
+        <item>option4</item>
+        <item>2</item>
+    </string-array>
+
+    option 2 is correct
+    -->
+    <string-array name="book1q1">
+        <item>0</item>
+        <item>What was the poem about?</item>
+        <item>A Black Bird</item>
+        <item>A Blue Bird</item>
+        <item>A Red Bird</item>
+        <item>A White Bird</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="book1q2">
+        <item>0</item>
+        <item>The style of the poem is similar to:</item>
+        <item>Vietnamese Six-eight</item>
+        <item>Japanese Haiku</item>
+        <item>Chinese Fu</item>
+        <item>None of the above</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="book1q3">
+        <item>1</item>
+        <item>Is this the author?</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="book1q4">
+        <item>0</item>
+        <item>The river is moving/ The blackbird must be ____</item>
+        <item>swimming</item>
+        <item>flying</item>
+        <item>eating</item>
+        <item>running</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="book1q5">
+        <item>0</item>
+        <item>Can you guess the author\'s name?</item>
+        <item>Harrison Ford</item>
+        <item>Clint Eastwood</item>
+        <item>Alice Notley</item>
+        <item>Wallace Stevens</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="book1q6">
+        <item>0</item>
+        <item>1 + 1 =</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="book1q7">
+        <item>0</item>
+        <item>The bird is:</item>
+        <item>Blue</item>
+        <item>Red</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="book1q8">
+        <item>0</item>
+        <item>3 + 3 =</item>
+        <item>1</item>
+        <item>2</item>
+        <item>6</item>
+        <item>10</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="book1q9">
+        <item>0</item>
+        <item>4 + 3 =</item>
+        <item>5</item>
+        <item>7</item>
+        <item>6</item>
+        <item>10</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="book1q10">
+        <item>0</item>
+        <item>3 x 3 =</item>
+        <item>9</item>
+        <item>2</item>
+        <item>6</item>
+        <item>10</item>
+        <item>1</item>
+    </string-array>
+
+    <!-- ******************************************************************** -->
+
+    <string-array name="book2q1">
+        <item>0</item>
+        <item>Which is the center of our solar system?</item>
+        <item>The Moon</item>
+        <item>The Earth</item>
+        <item>The Sun</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="book2q2">
+        <item>0</item>
+        <item>Which planet has life on it?</item>
+        <item>The Earth</item>
+        <item>Venus</item>
+        <item>Mars</item>
+        <item>Mercury</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="book2q3">
+        <item>1</item>
+        <item>Which planet is this?</item>
+        <item>Mars</item>
+        <item>Pluto</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="book2q4">
+        <item>0</item>
+        <item>Which planet is the hottest?</item>
+        <item>The Earth</item>
+        <item>Mars</item>
+        <item>Venus</item>
+        <item>The Sun</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="book2q5">
+        <item>0</item>
+        <item>Bonus question, choose option 3 to get 10 points!</item>
+        <item>option1</item>
+        <item>option2</item>
+        <item>option3</item>
+        <item>option4</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="book2q6">
+        <item>0</item>
+        <item>Which planet is closer to Earth</item>
+        <item>Mars</item>
+        <item>Venus</item>
+        <item>Pluto</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="book2q7">
+        <item>0</item>
+        <item>Where do you live?</item>
+        <item>Mars</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="book2q8">
+        <item>0</item>
+        <item>5 x 5 =</item>
+        <item>10</item>
+        <item>25</item>
+        <item>20</item>
+	<item>30</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="book2q9">
+        <item>0</item>
+        <item>Is the sun hot?</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>It depends</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="book2q10">
+        <item>0</item>
+        <item>7 + 3 =</item>
+        <item>12</item>
+        <item>100</item>
+        <item>20</item>
+	<item>10</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="book2q11">
+        <item>0</item>
+        <item>8 + 8 =</item>
+        <item>16</item>
+        <item>10</item>
+        <item>8</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="book2q12">
+        <item>0</item>
+        <item>Is there water on Earth?</item>
+        <item>No</item>
+        <item>Yes</item>
+        <item>2</item>
+    </string-array>
+    <!-- ******************************************************************** -->
+
+    <string-array name="book3q1">
+        <item>0</item>
+        <item>Sea water taste:</item>
+        <item>Salty</item>
+        <item>Sweet</item>
+        <item>Sour</item>
+        <item>Hot</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="book3q2">
+        <item>0</item>
+        <item>Which can be found a lot in a beach</item>
+        <item>Trash</item>
+        <item>Tigers</item>
+        <item>Apes</item>
+        <item>Sand</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="book3q3">
+        <item>1</item>
+        <item>Is this a beach?</item>
+        <item>No</item>
+        <item>Yes</item>
+        <item>Maybe</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="book3q4">
+        <item>0</item>
+        <item>Which is the best?</item>
+        <item>Eating icecream</item>
+        <item>Playing video games</item>
+        <item>Going to the beach</item>
+        <item>Singing</item>
+        <item>3</item>
+    </string-array>
+
+
+    <string-array name="book3q5">
+        <item>0</item>
+        <item>You may get ___ at the beach.</item>
+        <item>Money</item>
+        <item>Cars</item>
+        <item>Sunburn</item>
+        <item>Gold</item>
+        <item>3</item>
+    </string-array>
+
+
+    <string-array name="book3q6">
+        <item>0</item>
+        <item>7 + 7 =</item>
+        <item>14</item>
+        <item>49</item>
+        <item>7</item>
+        <item>10</item>
+        <item>1</item>
+    </string-array>
+
+
+    <string-array name="book3q7">
+        <item>0</item>
+        <item>Bonus question! Choose "Beach" to get 10 points!</item>
+        <item>Mall</item>
+        <item>Beach</item>
+        <item>Home</item>
+        <item>School</item>
+        <item>2</item>
+    </string-array>
+
+
+    <string-array name="book3q8">
+        <item>0</item>
+        <item>8 + 2 =</item>
+        <item>9</item>
+        <item>5</item>
+        <item>8</item>
+        <item>10</item>
+        <item>4</item>
+    </string-array>
+
+    <!-- ******************************************************************** -->
+
+    <string-array name="book4q1">
+        <item>0</item>
+        <item>Which music genre originated in Jamaica?</item>
+        <item>Rock</item>
+        <item>Reggae</item>
+        <item>Blues</item>
+        <item>Pop</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="book4q2">
+        <item>0</item>
+        <item>Are there guitar solos in metal music?</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>Depends</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="book4q3">
+        <item>1</item>
+        <item>This is a singer of genre:</item>
+        <item>Pop</item>
+        <item>Blues</item>
+        <item>Rock</item>
+        <item>Opera</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="book4q4">
+        <item>0</item>
+        <item>Sergei Rachmaninoff is a composer of genre:</item>
+        <item>Classical</item>
+        <item>Metal</item>
+        <item>Jazz</item>
+        <item>Rock</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="book4q5">
+        <item>0</item>
+        <item>Which genre has elements of traditional music</item>
+        <item>Jazz</item>
+        <item>Folk</item>
+        <item>Both</item>
+        <item>2</item>
+    </string-array>
+
+
+    <string-array name="book4q6">
+        <item>0</item>
+        <item>Is metal realated to rock?</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>1</item>
+    </string-array>
+
+
+    <string-array name="book4q7">
+        <item>0</item>
+        <item>1 + 1 =</item>
+        <item>7</item>
+        <item>2</item>
+        <item>10</item>
+        <item>2</item>
+    </string-array>
+
+    <!-- ******************************************************************** -->
+
+    <string-array name="book5q1">
+        <item>0</item>
+        <item>The female mouse name is:</item>
+        <item>Lily</item>
+        <item>Cassandra</item>
+        <item>Sarah</item>
+        <item>Lucy</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="book5q2">
+        <item>0</item>
+        <item>Did the skunk\'s method work?</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="book5q3">
+        <item>1</item>
+        <item>Did this character appear?</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="book5q4">
+        <item>0</item>
+        <item>What cured the mouse\'s hiccup?</item>
+        <item>A berry</item>
+        <item>A medicine</item>
+        <item>Being surprised by her brother</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="book5q5">
+        <item>0</item>
+        <item>The name of Lucy\'s brother is:</item>
+        <item>David</item>
+        <item>Kain</item>
+        <item>Luke</item>
+        <item>Harvey</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="book5q6">
+        <item>0</item>
+        <item>Is being surprised a good way to cure hiccups</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="book5q7">
+        <item>0</item>
+        <item>3 - 3 =</item>
+        <item>4</item>
+        <item>2</item>
+        <item>3</item>
+        <item>0</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="book5q8">
+        <item>0</item>
+        <item>2 + 2 =</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>2</item>
+    </string-array>
+</resources>

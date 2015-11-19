@@ -1,0 +1,42 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+        tools:context=".WelcomeActivity"
+        android:background="#8fc644"
+        android:id="@+id/welcome_layout">
+
+        <fragment
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/fragment_booklist"
+            android:name="com.example.user.interactivebooksforkids.BookListFragment"
+            tools:layout="@layout/fragment_book_list" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="invisible"
+        android:paddingTop="50dp"
+        android:id="@+id/big_cover_layout">
+
+        <ImageView
+            android:id="@+id/book_cover_big"
+            android:layout_width="380dp"
+            android:layout_height="380dp"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:scaleType="fitXY"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/close"
+            android:id="@+id/close_cover_big_button"
+            android:onClick="close_big_cover"
+            android:layout_gravity="center_horizontal" />
+
+    </LinearLayout>
+</merge>
